@@ -10,15 +10,6 @@
   with a focus on game develolpment.
 
 * My page is emptier than it should be since I have a good portion of my projects privated.
----
-
-
-
-##### Look at this basketball sized rabbit
-<p align="center">
-    <img src="images/R1.jpg" width="300">
-    <img src="images/R2.jpg" width="300">
-</p>
 
 --- 
 ##### A calculator program which I am very proud of:
