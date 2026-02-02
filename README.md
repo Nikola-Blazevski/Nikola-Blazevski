@@ -1,3 +1,6 @@
+#### THIS ACCOUNT IS NO LONGER IN USE PLEASE SEE [HERE](https://git.nikola-blazevski.ca/nikola-blazevski) FOR MOST UP TO DATE INFO
+
+
 #### Hi I'm Nikola
 
 ---
@@ -7,27 +10,4 @@
   [(CHADS, UAlberta)](https://linktr.ee/chadsualberta)
 
 * I over the summer I worked at [CodeNinjas](https://www.codeninjas.com/), teaching C# 
-  with a focus on game develolpment.
-
-* My page is emptier than it should be since I have a good portion of my projects privated.
-
---- 
-##### A calculator program which I am very proud of:
-```python
-from openai import OpenAI
-
-print("Welcome to my calc (calculator)")
-usr_in = input("Please enter your equation: ")
-
-client = OpenAI()
-prompt = client.chat.completions.create(
-    model="gpt-4o-mini",
-    messages=[{"role": "user", "content": "Compute the following expression " + usr_in}],
-)
-
-print("Result: " + resp.choices[0].message.content)
-
-```
----
-
-* Please see my LinkedIn for my experience.
+  with a focus on game development.
