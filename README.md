@@ -1,6 +1,3 @@
-#### THIS ACCOUNT IS NO LONGER IN USE PLEASE SEE [HERE](https://git.nikola-blazevski.ca/nikola-blazevski) FOR MOST UP TO DATE INFO
-
-
 #### Hi I'm Nikola
 
 ---
